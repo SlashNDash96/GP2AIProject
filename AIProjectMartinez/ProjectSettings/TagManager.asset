@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - AI
+  - Checkpoint
+  - Fire
+  - CinemachineTarget
+  - Safe
   layers:
   - Default
   - TransparentFX
